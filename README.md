@@ -1,8 +1,8 @@
-# SIMULASI K0PR0K
+# SIMULASI J-U-D-I K-0-P-R-0-K
 
 ## Tergiur
 
-Judi k0pr0k adalah judi dadu yang banyak dimainkan di kampung-kampung. Pemain hanya taruhan
+Judi k-o-p-r-o-k adalah j-u-d-i dadu yang banyak dimainkan di kampung-kampung. Pemain hanya taruhan
 pada nomor atau gambar. Bandar yang akan mengocok tiga buah dadu. Kalau keluar gambar sesuai 
 taruhan pemain, berarti ia menang.
 
@@ -16,7 +16,7 @@ hasilnya lumayan menggiurkan tergantung jenis taruhannya sbb.
 
 ## Peluang
 
-Berdasarkan hitungan ilmu Peluang (Probability) pada masing-masing jenis taruhan:
+Berdasarkan hitungan ilmu Peluang (__Probability__) pada masing-masing jenis taruhan:
 
 * Match 1 gambar, 40%
 * Match 2 gambar, 14%
@@ -28,7 +28,7 @@ orang yang percaya nasib baik akan datang menghampiri.
 
 ## Simulasi
 
-Aplikasi simulasi_judi_koprok ini untuk membantu kita menelaah secara ril, sebarapa besar peluang
+Aplikasi simulasi_j-u-d-i_k-o-p-r-o-k ini untuk membantu kita menelaah secara ril, sebarapa besar peluang
 player dapat menang atau tidak. Pada hasil statistik, untuk trial >= 30, ditampilkan berapa banyak 
 akumulasi taruhan rata-rata untuk dapat memenangkan uang 1 juta rupiah misalnya.
 
