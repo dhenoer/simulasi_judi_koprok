@@ -39,7 +39,7 @@ dadu = ['1','1','1']
 #Menu
 import os
 os.system('clear')
-print('SIMULASI JUDI KOPROK 3 DADU')
+print('SIMULASI JUDI K0PR0K 3 DADU')
 print('---------------------------\n')
 
 print('JENIS PERMAINAN')
