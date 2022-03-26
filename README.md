@@ -33,3 +33,7 @@ player dapat menang atau tidak. Pada hasil statistik, untuk trial >= 30, ditampi
 akumulasi taruhan rata-rata untuk dapat memenangkan uang 1 juta rupiah misalnya.
 
 Yang pasti, peluang bandar menang lebih besar dari player.
+
+## Contoh Output
+
+![Contoh Output](https://github.com/dhenoer/simulasi_judi_koprok/blob/main/WhatsApp%20Image%202022-03-26%20at%2018.36.27.jpeg)
